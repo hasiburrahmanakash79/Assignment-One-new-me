@@ -62,7 +62,7 @@
 /* plan section start */
 .plans{
     text-align: center;
-    margin: 100px;
+
 }
 .plan-title{
     margin-top: 120px;
@@ -73,7 +73,7 @@
 .plan{
     align-items: center;
     display: flex;
-    gap: 80px;
+    gap: 155px;
     margin: 50px 480px;
 }
 /* plan section end */
